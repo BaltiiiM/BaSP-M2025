@@ -32,9 +32,11 @@ main {
 }
 
 .foto-biblio {
-    width: 300px;
+    max-width: 100%;
+    width: 650px;
     height: auto;
     border-radius: 10px;
+    object-fit: cover;
 }
 
 .menu-icon {
